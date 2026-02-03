@@ -1,6 +1,0 @@
-15:59:45 **** Incremental Build of configuration Debug for project 02_DRM_Controller_v1.0_Slave ****
-make -j12 all 
-make: Nothing to be done for 'all'.
-
-15:59:46 Build Finished (took 919ms)
-

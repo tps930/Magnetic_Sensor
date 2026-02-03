@@ -1,6 +1,0 @@
-19:11:45 **** Incremental Build of configuration Debug for project 02_DRM_Controller_v1.1_NoRTOS ****
-make -j12 all 
-make: Nothing to be done for 'all'.
-
-19:11:45 Build Finished (took 447ms)
-

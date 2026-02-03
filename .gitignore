@@ -1,0 +1,21 @@
+# STM32CubeIDE / Eclipse workspace metadata
+.metadata/
+*.log
+*.lock
+
+# Build outputs
+Debug/
+Release/
+build/
+*/Debug/
+*/Release/
+
+# Common generated files (optional)
+*.o
+*.d
+*.elf
+*.map
+
+# OS junk
+Thumbs.db
+.DS_Store

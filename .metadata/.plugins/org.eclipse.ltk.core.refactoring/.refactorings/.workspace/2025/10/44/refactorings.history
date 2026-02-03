@@ -1,3 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">&#x0A;<refactoring comment="Delete 2 resources" deleteContents="false" description="Delete 2 resources" element1="/02_DRM_Controller_v1.0_Master" element2="/02_DRM_Controller_v1.0_Slave" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="2" stamp="1761569356379"/>&#x0A;<refactoring comment="Delete resource &apos;02_DRM_Controller_v1.0_Master&apos;" deleteContents="false" description="Delete resource &apos;02_DRM_Controller_v1.0_Master&apos;" element1="/02_DRM_Controller_v1.0_Master" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1761569842689"/>
-</session>
