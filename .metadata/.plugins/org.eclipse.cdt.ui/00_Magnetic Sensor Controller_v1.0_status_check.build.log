@@ -1,0 +1,6 @@
+15:59:41 **** Incremental Build of configuration Debug for project 00_Magnetic Sensor Controller_v1.0_status_check ****
+make all 
+make: Nothing to be done for 'all'.
+
+15:59:42 Build Finished (took 1s.601ms)
+

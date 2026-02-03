@@ -1,0 +1,188 @@
+Middlewares/Third_Party/FatFs/src/ff.o: \
+ ../Middlewares/Third_Party/FatFs/src/ff.c \
+ ../Middlewares/Third_Party/FatFs/src/ff.h \
+ ../Middlewares/Third_Party/FatFs/src/integer.h \
+ C:/2018/201810_EX_TK_HQ/02_DisplayController_v1.1/Inc/ffconf.h \
+ C:/2018/201810_EX_TK_HQ/02_DisplayController_v1.1/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h \
+ C:/2018/201810_EX_TK_HQ/02_DisplayController_v1.1/Inc/stm32f4xx_hal_conf.h \
+ C:/2018/201810_EX_TK_HQ/02_DisplayController_v1.1/Inc/main.h \
+ C:/2018/201810_EX_TK_HQ/02_DisplayController_v1.1/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h \
+ C:/2018/201810_EX_TK_HQ/02_DisplayController_v1.1/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h \
+ C:/2018/201810_EX_TK_HQ/02_DisplayController_v1.1/Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h \
+ C:/2018/201810_EX_TK_HQ/02_DisplayController_v1.1/Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f427xx.h \
+ C:/2018/201810_EX_TK_HQ/02_DisplayController_v1.1/Drivers/CMSIS/Include/core_cm4.h \
+ C:/2018/201810_EX_TK_HQ/02_DisplayController_v1.1/Drivers/CMSIS/Include/core_cmInstr.h \
+ C:/2018/201810_EX_TK_HQ/02_DisplayController_v1.1/Drivers/CMSIS/Include/cmsis_gcc.h \
+ C:/2018/201810_EX_TK_HQ/02_DisplayController_v1.1/Drivers/CMSIS/Include/core_cmFunc.h \
+ C:/2018/201810_EX_TK_HQ/02_DisplayController_v1.1/Drivers/CMSIS/Include/core_cmSimd.h \
+ C:/2018/201810_EX_TK_HQ/02_DisplayController_v1.1/Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h \
+ C:/2018/201810_EX_TK_HQ/02_DisplayController_v1.1/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h \
+ C:/2018/201810_EX_TK_HQ/02_DisplayController_v1.1/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h \
+ C:/2018/201810_EX_TK_HQ/02_DisplayController_v1.1/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h \
+ C:/2018/201810_EX_TK_HQ/02_DisplayController_v1.1/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h \
+ C:/2018/201810_EX_TK_HQ/02_DisplayController_v1.1/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma.h \
+ C:/2018/201810_EX_TK_HQ/02_DisplayController_v1.1/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma_ex.h \
+ C:/2018/201810_EX_TK_HQ/02_DisplayController_v1.1/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_cortex.h \
+ C:/2018/201810_EX_TK_HQ/02_DisplayController_v1.1/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_adc.h \
+ C:/2018/201810_EX_TK_HQ/02_DisplayController_v1.1/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_adc_ex.h \
+ C:/2018/201810_EX_TK_HQ/02_DisplayController_v1.1/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_can.h \
+ C:/2018/201810_EX_TK_HQ/02_DisplayController_v1.1/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_eth.h \
+ C:/2018/201810_EX_TK_HQ/02_DisplayController_v1.1/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash.h \
+ C:/2018/201810_EX_TK_HQ/02_DisplayController_v1.1/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ex.h \
+ C:/2018/201810_EX_TK_HQ/02_DisplayController_v1.1/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ramfunc.h \
+ C:/2018/201810_EX_TK_HQ/02_DisplayController_v1.1/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_i2c.h \
+ C:/2018/201810_EX_TK_HQ/02_DisplayController_v1.1/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_i2c_ex.h \
+ C:/2018/201810_EX_TK_HQ/02_DisplayController_v1.1/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_iwdg.h \
+ C:/2018/201810_EX_TK_HQ/02_DisplayController_v1.1/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h \
+ C:/2018/201810_EX_TK_HQ/02_DisplayController_v1.1/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h \
+ C:/2018/201810_EX_TK_HQ/02_DisplayController_v1.1/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rtc.h \
+ C:/2018/201810_EX_TK_HQ/02_DisplayController_v1.1/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rtc_ex.h \
+ C:/2018/201810_EX_TK_HQ/02_DisplayController_v1.1/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_sd.h \
+ C:/2018/201810_EX_TK_HQ/02_DisplayController_v1.1/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_sdmmc.h \
+ C:/2018/201810_EX_TK_HQ/02_DisplayController_v1.1/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim.h \
+ C:/2018/201810_EX_TK_HQ/02_DisplayController_v1.1/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim_ex.h \
+ C:/2018/201810_EX_TK_HQ/02_DisplayController_v1.1/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
+ C:/2018/201810_EX_TK_HQ/02_DisplayController_v1.1/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.h \
+ C:/2018/201810_EX_TK_HQ/02_DisplayController_v1.1/Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h \
+ C:/2018/201810_EX_TK_HQ/02_DisplayController_v1.1/Inc/FreeRTOSConfig.h \
+ C:/2018/201810_EX_TK_HQ/02_DisplayController_v1.1/Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h \
+ C:/2018/201810_EX_TK_HQ/02_DisplayController_v1.1/Middlewares/Third_Party/FreeRTOS/Source/include/portable.h \
+ C:/2018/201810_EX_TK_HQ/02_DisplayController_v1.1/Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h \
+ C:/2018/201810_EX_TK_HQ/02_DisplayController_v1.1/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/portmacro.h \
+ C:/2018/201810_EX_TK_HQ/02_DisplayController_v1.1/Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h \
+ C:/2018/201810_EX_TK_HQ/02_DisplayController_v1.1/Middlewares/Third_Party/FreeRTOS/Source/include/task.h \
+ C:/2018/201810_EX_TK_HQ/02_DisplayController_v1.1/Middlewares/Third_Party/FreeRTOS/Source/include/list.h \
+ C:/2018/201810_EX_TK_HQ/02_DisplayController_v1.1/Middlewares/Third_Party/FreeRTOS/Source/include/timers.h \
+ C:/2018/201810_EX_TK_HQ/02_DisplayController_v1.1/Middlewares/Third_Party/FreeRTOS/Source/include/task.h \
+ C:/2018/201810_EX_TK_HQ/02_DisplayController_v1.1/Middlewares/Third_Party/FreeRTOS/Source/include/queue.h \
+ C:/2018/201810_EX_TK_HQ/02_DisplayController_v1.1/Middlewares/Third_Party/FreeRTOS/Source/include/semphr.h \
+ C:/2018/201810_EX_TK_HQ/02_DisplayController_v1.1/Middlewares/Third_Party/FreeRTOS/Source/include/queue.h \
+ C:/2018/201810_EX_TK_HQ/02_DisplayController_v1.1/Middlewares/Third_Party/FreeRTOS/Source/include/event_groups.h \
+ C:/2018/201810_EX_TK_HQ/02_DisplayController_v1.1/Middlewares/Third_Party/FreeRTOS/Source/include/timers.h \
+ C:/2018/201810_EX_TK_HQ/02_DisplayController_v1.1/Inc/bsp_driver_sd.h \
+ C:/2018/201810_EX_TK_HQ/02_DisplayController_v1.1/Inc/fatfs_platform.h \
+ ../Middlewares/Third_Party/FatFs/src/diskio.h
+
+../Middlewares/Third_Party/FatFs/src/ff.h:
+
+../Middlewares/Third_Party/FatFs/src/integer.h:
+
+C:/2018/201810_EX_TK_HQ/02_DisplayController_v1.1/Inc/ffconf.h:
+
+C:/2018/201810_EX_TK_HQ/02_DisplayController_v1.1/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h:
+
+C:/2018/201810_EX_TK_HQ/02_DisplayController_v1.1/Inc/stm32f4xx_hal_conf.h:
+
+C:/2018/201810_EX_TK_HQ/02_DisplayController_v1.1/Inc/main.h:
+
+C:/2018/201810_EX_TK_HQ/02_DisplayController_v1.1/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h:
+
+C:/2018/201810_EX_TK_HQ/02_DisplayController_v1.1/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h:
+
+C:/2018/201810_EX_TK_HQ/02_DisplayController_v1.1/Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h:
+
+C:/2018/201810_EX_TK_HQ/02_DisplayController_v1.1/Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f427xx.h:
+
+C:/2018/201810_EX_TK_HQ/02_DisplayController_v1.1/Drivers/CMSIS/Include/core_cm4.h:
+
+C:/2018/201810_EX_TK_HQ/02_DisplayController_v1.1/Drivers/CMSIS/Include/core_cmInstr.h:
+
+C:/2018/201810_EX_TK_HQ/02_DisplayController_v1.1/Drivers/CMSIS/Include/cmsis_gcc.h:
+
+C:/2018/201810_EX_TK_HQ/02_DisplayController_v1.1/Drivers/CMSIS/Include/core_cmFunc.h:
+
+C:/2018/201810_EX_TK_HQ/02_DisplayController_v1.1/Drivers/CMSIS/Include/core_cmSimd.h:
+
+C:/2018/201810_EX_TK_HQ/02_DisplayController_v1.1/Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h:
+
+C:/2018/201810_EX_TK_HQ/02_DisplayController_v1.1/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h:
+
+C:/2018/201810_EX_TK_HQ/02_DisplayController_v1.1/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h:
+
+C:/2018/201810_EX_TK_HQ/02_DisplayController_v1.1/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h:
+
+C:/2018/201810_EX_TK_HQ/02_DisplayController_v1.1/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h:
+
+C:/2018/201810_EX_TK_HQ/02_DisplayController_v1.1/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma.h:
+
+C:/2018/201810_EX_TK_HQ/02_DisplayController_v1.1/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma_ex.h:
+
+C:/2018/201810_EX_TK_HQ/02_DisplayController_v1.1/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_cortex.h:
+
+C:/2018/201810_EX_TK_HQ/02_DisplayController_v1.1/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_adc.h:
+
+C:/2018/201810_EX_TK_HQ/02_DisplayController_v1.1/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_adc_ex.h:
+
+C:/2018/201810_EX_TK_HQ/02_DisplayController_v1.1/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_can.h:
+
+C:/2018/201810_EX_TK_HQ/02_DisplayController_v1.1/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_eth.h:
+
+C:/2018/201810_EX_TK_HQ/02_DisplayController_v1.1/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash.h:
+
+C:/2018/201810_EX_TK_HQ/02_DisplayController_v1.1/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ex.h:
+
+C:/2018/201810_EX_TK_HQ/02_DisplayController_v1.1/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ramfunc.h:
+
+C:/2018/201810_EX_TK_HQ/02_DisplayController_v1.1/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_i2c.h:
+
+C:/2018/201810_EX_TK_HQ/02_DisplayController_v1.1/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_i2c_ex.h:
+
+C:/2018/201810_EX_TK_HQ/02_DisplayController_v1.1/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_iwdg.h:
+
+C:/2018/201810_EX_TK_HQ/02_DisplayController_v1.1/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h:
+
+C:/2018/201810_EX_TK_HQ/02_DisplayController_v1.1/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h:
+
+C:/2018/201810_EX_TK_HQ/02_DisplayController_v1.1/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rtc.h:
+
+C:/2018/201810_EX_TK_HQ/02_DisplayController_v1.1/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rtc_ex.h:
+
+C:/2018/201810_EX_TK_HQ/02_DisplayController_v1.1/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_sd.h:
+
+C:/2018/201810_EX_TK_HQ/02_DisplayController_v1.1/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_sdmmc.h:
+
+C:/2018/201810_EX_TK_HQ/02_DisplayController_v1.1/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim.h:
+
+C:/2018/201810_EX_TK_HQ/02_DisplayController_v1.1/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim_ex.h:
+
+C:/2018/201810_EX_TK_HQ/02_DisplayController_v1.1/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h:
+
+C:/2018/201810_EX_TK_HQ/02_DisplayController_v1.1/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.h:
+
+C:/2018/201810_EX_TK_HQ/02_DisplayController_v1.1/Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h:
+
+C:/2018/201810_EX_TK_HQ/02_DisplayController_v1.1/Inc/FreeRTOSConfig.h:
+
+C:/2018/201810_EX_TK_HQ/02_DisplayController_v1.1/Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h:
+
+C:/2018/201810_EX_TK_HQ/02_DisplayController_v1.1/Middlewares/Third_Party/FreeRTOS/Source/include/portable.h:
+
+C:/2018/201810_EX_TK_HQ/02_DisplayController_v1.1/Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h:
+
+C:/2018/201810_EX_TK_HQ/02_DisplayController_v1.1/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/portmacro.h:
+
+C:/2018/201810_EX_TK_HQ/02_DisplayController_v1.1/Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h:
+
+C:/2018/201810_EX_TK_HQ/02_DisplayController_v1.1/Middlewares/Third_Party/FreeRTOS/Source/include/task.h:
+
+C:/2018/201810_EX_TK_HQ/02_DisplayController_v1.1/Middlewares/Third_Party/FreeRTOS/Source/include/list.h:
+
+C:/2018/201810_EX_TK_HQ/02_DisplayController_v1.1/Middlewares/Third_Party/FreeRTOS/Source/include/timers.h:
+
+C:/2018/201810_EX_TK_HQ/02_DisplayController_v1.1/Middlewares/Third_Party/FreeRTOS/Source/include/task.h:
+
+C:/2018/201810_EX_TK_HQ/02_DisplayController_v1.1/Middlewares/Third_Party/FreeRTOS/Source/include/queue.h:
+
+C:/2018/201810_EX_TK_HQ/02_DisplayController_v1.1/Middlewares/Third_Party/FreeRTOS/Source/include/semphr.h:
+
+C:/2018/201810_EX_TK_HQ/02_DisplayController_v1.1/Middlewares/Third_Party/FreeRTOS/Source/include/queue.h:
+
+C:/2018/201810_EX_TK_HQ/02_DisplayController_v1.1/Middlewares/Third_Party/FreeRTOS/Source/include/event_groups.h:
+
+C:/2018/201810_EX_TK_HQ/02_DisplayController_v1.1/Middlewares/Third_Party/FreeRTOS/Source/include/timers.h:
+
+C:/2018/201810_EX_TK_HQ/02_DisplayController_v1.1/Inc/bsp_driver_sd.h:
+
+C:/2018/201810_EX_TK_HQ/02_DisplayController_v1.1/Inc/fatfs_platform.h:
+
+../Middlewares/Third_Party/FatFs/src/diskio.h:

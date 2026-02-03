@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="SmartImportWizard">
+		<item value="false" key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN"/>
+		<item value="false" key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED"/>
+		<item value="true" key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES"/>
+		<item value="true" key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="D:\이준우\02_softwave\2025_magnetic Sensor"/>
+		</list>
+	</section>
+	<section name="ExternalProjectImportWizard">
+		<item value="true" key="WizardProjectsImportPage.STORE_NESTED_PROJECTS"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="D:\이준우\02_softwave\2025_magnetic Sensor"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+	</section>
+</section>

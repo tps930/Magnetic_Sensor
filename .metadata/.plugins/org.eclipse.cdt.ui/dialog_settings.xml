@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="${workspace_loc:/${ProjName}/Inc}" key="org.eclipse.cdt.utils.ui.controls.FileListControl"/>
+	<section name="org.eclipse.cdt.ui.OPEN_ACTION_SELECTION_DIALOG_SECTION">
+		<item value="398" key="DIALOG_WIDTH"/>
+		<item value="1|맑은 고딕|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕" key="DIALOG_FONT_NAME"/>
+		<item value="438" key="DIALOG_HEIGHT"/>
+		<item value="769" key="DIALOG_X_ORIGIN"/>
+		<item value="236" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="org.eclipse.cdt.ui.text.hover.CMacroExpansionExploration">
+	</section>
+	<section name="PDOMSearchPage">
+		<item value="false" key="caseSensitive"/>
+		<item value="227191" key="searchFlags"/>
+		<list key="previousPatterns">
+			<item value="Send_BLE_MANUF_SET"/>
+			<item value="Traffic_Cal_Min"/>
+			<item value="command_str"/>
+			<item value="COMMAND_T"/>
+			<item value="FRAM_SaveBuff"/>
+			<item value="Magnetic_Sensor_Cal"/>
+			<item value="Read_Params"/>
+			<item value="Save_Params"/>
+			<item value="SaveFRAMMemory"/>
+			<item value="ReadFRAMMemory"/>
+			<item value="hi2c1"/>
+			<item value="I2C"/>
+			<item value="UART_Baud"/>
+			<item value="logicBLETask"/>
+			<item value="logicRFModemInit"/>
+			<item value="periRFModule"/>
+			<item value="prev_z"/>
+			<item value="traffic_avg_60sec"/>
+			<item value="Proc"/>
+			<item value="Send_Modem_Standby"/>
+			<item value="RF_UART_PORT"/>
+			<item value="isRecv"/>
+			<item value="isModemRdy"/>
+			<item value="Sensor"/>
+			<item value="hrtc"/>
+			<item value="isTestMode"/>
+			<item value="MX_GPIO_Init"/>
+			<item value="DRDY_DebugLoop"/>
+			<item value="Init"/>
+			<item value="BSP_SD_Init"/>
+			<item value="logicInit"/>
+		</list>
+	</section>
+	<section name="OptionalMessageDialog.hide.">
+		<item value="0" key="askReindex.detail"/>
+	</section>
+	<section name="completion_proposal_size">
+	</section>
+	<section name="org.eclipse.cdt.internal.ui.typehierarchy.OpenTypeInHierarchyActionSettings">
+		<item value="true" key="show_enums"/>
+		<item value="true" key="show_unions"/>
+		<item value="false" key="show_macros"/>
+		<item value="true" key="show_classes"/>
+		<item value="false" key="show_functions"/>
+		<item value="true" key="show_lowlevel"/>
+		<item value="false" key="show_namespaces"/>
+		<item value="false" key="show_enumerators"/>
+		<item value="true" key="show_structs"/>
+		<item value="744" key="x"/>
+		<item value="432" key="width"/>
+		<item value="78" key="y"/>
+		<item value="true" key="show_typedefs"/>
+		<item value="false" key="show_variables"/>
+		<item value="663" key="height"/>
+	</section>
+</section>

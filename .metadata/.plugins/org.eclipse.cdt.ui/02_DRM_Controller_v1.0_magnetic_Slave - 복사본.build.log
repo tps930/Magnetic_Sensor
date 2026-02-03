@@ -1,0 +1,17 @@
+15:59:51 **** Build of configuration Debug for project 02_DRM_Controller_v1.0_magnetic_Slave - 복사본 ****
+make -j12 all 
+Building target: 02_DRM_Controller_v1.0_magnetic_Slave - 복사본.elf
+Invoking: MCU GCC Linker
+arm-none-eabi-gcc -mcpu=cortex-m0plus -mthumb -mfloat-abi=soft -specs=nosys.specs -specs=nano.specs -u _printf_float -T"../STM32L071CBTx_FLASH.ld" -Wl,-Map=output.map -Wl,--gc-sections -o "02_DRM_Controller_v1.0_magnetic_Slave - 복사본.elf" @"objects.list"   -lm
+Finished building target: 02_DRM_Controller_v1.0_magnetic_Slave - 복사본.elf
+ 
+make --no-print-directory post-build
+Generating hex and Printing size information:
+arm-none-eabi-objcopy -O ihex "02_DRM_Controller_v1.0_magnetic_Slave - 복사본.elf" "02_DRM_Controller_v1.0_magnetic_Slave - 복사본.hex"
+arm-none-eabi-size "02_DRM_Controller_v1.0_magnetic_Slave - 복사본.elf"
+   text	   data	    bss	    dec	    hex	filename
+  57600	    492	  18856	  76948	  12c94	02_DRM_Controller_v1.0_magnetic_Slave - 복사본.elf
+ 
+
+15:59:54 Build Finished (took 2s.913ms)
+
